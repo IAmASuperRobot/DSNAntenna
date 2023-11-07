@@ -1,0 +1,8 @@
+# Ignore files with .txt extension
+
+
+# Ignore the directory named "logs"
+
+
+# Ignore a specific file
+.DS_Store
