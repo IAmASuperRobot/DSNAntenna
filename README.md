@@ -19,11 +19,11 @@ This is a work-in-progress mod for Kerbal Space Program (KSP) that aims to add l
 
 ## Dependencies
 
-- It is highly recommended, if not necessary, to have the [Hyperdit Mod](https://example.com/hyperdit) installed for optimal performance and compatibility.
+- It is highly recommended, if not necessary, to have the [Hyperdit Mod](https://forum.kerbalspaceprogram.com/topic/34785-112-hyperedit-v158-july-10-2018-cheat-teleporter-orbitplanet-editor-more/) installed for optimal performance and compatibility.
 
 ## Installation
 
-1. Download the mod ZIP file from the [releases page](https://github.com/YourUsername/YourModName/releases).
+1. Download the mod ZIP file from the [releases page](https://github.com/IAmASuperRobot/DSNAntenna/releases).
 2. Unzip the downloaded file to get the mod folder.
 3. Place the mod folder in the `GameData` directory of your Kerbal Space Program installation.
 
@@ -44,11 +44,11 @@ While this mod is a work in progress, there are several features I'd like to imp
 
 2. **Contract Pack for Added Value:** I'm considering the development of a contract pack that integrates with the mod, providing players with additional missions and objectives centered around the DSN satellite dishes.
 
-3. **Integration with Other Mods:** I plan to explore compatibility with popular mods like [RemoteTech](https://example.com/remotetech), enabling a seamless experience for players who wish to incorporate advanced communication systems into their gameplay.
+3. **Integration with Other Mods:** I plan to explore compatibility with popular mods like [RemoteTech](https://forum.kerbalspaceprogram.com/topic/139167-111-remotetech-v199-2020-12-19/), enabling a seamless experience for players who wish to incorporate advanced communication systems into their gameplay.
 
 4. **Interior Models:** While not currently implemented, I aspire to eventually introduce interior models for the satellite dishes, adding an extra layer of immersion for players who enjoy detailed spacecraft interiors.
 
-5. **Kerbal Control Requirements:** In the future, I aim to introduce a system where Kerbals must be present to provide manual controls, similar to the functionality offered by the [RemoteTech](https://example.com/remotetech) mod.
+5. **Kerbal Control Requirements:** In the future, I aim to introduce a system where Kerbals must be present to provide manual controls, similar to the functionality offered by the RemoteTech mod.
 
 Please note that these features are part of a wishlist and may be subject to development feasibility and future updates.
 
