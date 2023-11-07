@@ -1,6 +1,6 @@
-# Kerbal Interplanetary Probes Presents:
+# Kerbal Interplanetary Probes Presents: **KIPSAT DSN Antennas**
 
-<span style="font-family: 'Arial Narrow'; font-size: 5em; color: red;">**KIPSAT DSN Antennas**</span>
+<!-- <span style="font-family: 'Arial Narrow'; font-size: 5em; color: red;">**KIPSAT DSN Antennas**</span> -->
 
 ## Description
 
@@ -20,8 +20,6 @@ This is a work-in-progress mod for Kerbal Space Program (KSP) that aims to add l
 ## Dependencies
 
 - It is highly recommended, if not necessary, to have the [Hyperdit Mod](https://example.com/hyperdit) installed for optimal performance and compatibility.
-
-## Installation
 
 ## Installation
 
