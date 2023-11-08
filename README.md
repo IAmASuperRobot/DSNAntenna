@@ -9,7 +9,7 @@ This is a work-in-progress mod for Kerbal Space Program (KSP) that aims to add l
 ## Features
 
 - Provides three DSN satellite dishes of increasing size, designed to match the default KSP DSN network antenna power settings.
-- It is designed to work with the **extra groundstation to OFF**, otherwise there is no real point :). Therefore increasing he challenge of long-rage communications.
+- It is designed to work with the **extra groundstation to OFF**, otherwise there is no real point :). 
 - Requires a significant budget and attention to launchpad upgrades, introducing a new level of challenge to the game.
 
 ## About
@@ -19,7 +19,7 @@ This is a work-in-progress mod for Kerbal Space Program (KSP) that aims to add l
 
 ## Dependencies
 
-- It is highly recommended, if not necessary, to have the [Hyperdit Mod](https://forum.kerbalspaceprogram.com/topic/34785-112-hyperedit-v158-july-10-2018-cheat-teleporter-orbitplanet-editor-more/) installed for optimal performance and compatibility.
+- It is highly recommended, if not necessary, to have the [Hyperdit Mod](https://forum.kerbalspaceprogram.com/topic/34785-112-hyperedit-v158-july-10-2018-cheat-teleporter-orbitplanet-editor-more/) installed to teleport the dishes to their locations.
 
 ## Installation
 
@@ -30,7 +30,7 @@ This is a work-in-progress mod for Kerbal Space Program (KSP) that aims to add l
 
 ## Known Issues
 
-- Known for now :)
+- None for now :)
 
 ## Contributing
 
